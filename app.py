@@ -1,4 +1,8 @@
-﻿import numpy as np
+﻿import streamlit as st
+
+st.title("Welcome to NeuroLearn!")
+st.write("Your interactive AI-powered learning experience starts here.")
+import numpy as np
 import pandas as pd
 import random
 import os
